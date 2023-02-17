@@ -1,2 +1,2 @@
 # UML501-Machine-Learning
-Assignment solutions
+Machine Learning assignments
